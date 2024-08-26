@@ -1,2 +1,2 @@
 > [!IMPORTANT]
-> Após fazer o clone do repositório, dentra da pasta onde foi salvo rode o `npm install`
+> Após fazer o clone do repositório, dentro da pasta onde foi salvo rode o `npm install`
