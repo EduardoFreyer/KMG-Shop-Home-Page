@@ -1,0 +1,6 @@
+img {
+  width: 100vw;
+  height: 42rem;
+  object-fit: cover;
+  object-position: 0 5%;
+}
